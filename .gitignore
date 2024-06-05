@@ -1,3 +1,4 @@
+.gitignore
 yelp_business.JSON
 yelp_business.txt
 yelp_checkin.JSON
