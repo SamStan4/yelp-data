@@ -39,9 +39,9 @@ CREATE TABLE _attribute (
 );
 
 CREATE TABLE _user (
-    user_id VARCHAR(25);
-    user_name VARCHAR(25);
-    user_yelping_since DATE;
+    user_id VARCHAR(25),
+    user_name VARCHAR(25),
+    user_yelping_since DATE,
     user_review_count INT,
     user_fanse INT,
     user_average_stars FLOAT,
